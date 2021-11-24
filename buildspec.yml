@@ -5,7 +5,7 @@ env:
     MESSAGE: "Hello World NEW"
     ACCESS_KEY: "ACCESS_KEY"
     SECRET_KEY: "SECRET_KEY"
-    BUCKET_NAME: "anna-mid-project-bucket"
+    BUCKET_NAME: "s3://anna-mid-project-bucket"
   exported-variables:
     - MESSAGE
     - ACCESS_KEY
