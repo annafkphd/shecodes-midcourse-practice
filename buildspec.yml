@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   variables:
-    MESSAGE: "Hello World"
+    MESSAGE: "Hello World NEW"
     ACCESS_KEY: "ACCESS_KEY"
     SECRET_KEY: "SECRET_KEY"
-    BUCKET_NAME: "BUCKET_NAME"
+    BUCKET_NAME: "anna-mid-project-bucket"
   exported-variables:
     - MESSAGE
     - ACCESS_KEY
